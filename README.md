@@ -1,8 +1,6 @@
 
 ![Watch Me][def]
 
-# Here's a revised version:
-
 # Registration-Form
 
 ## Watch Me 💛
